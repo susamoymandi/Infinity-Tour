@@ -219,7 +219,7 @@
   .foot-grid a{ text-decoration:none; color: var(--ink); font-size:0.9rem; }
   .foot-grid a:hover{ color: var(--gold); }
   .foot-bottom{
-    display:flex; justify-content:space-between; flex-wrap:wrap; gap:12px;
+    display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:12px;
     font-size:0.8rem; color: var(--ink-muted); border-top:1px solid var(--rule); padding-top:20px;
   }
 
