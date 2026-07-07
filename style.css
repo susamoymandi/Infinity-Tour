@@ -221,7 +221,7 @@
   .foot-bottom{
     display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:12px;
     font-size:0.8rem; color: var(--ink-muted); border-top:1px solid var(--rule); padding-top:20px;
-  }
+  } 
 
   /* ---------- responsive ---------- */
   @media (max-width: 900px){
